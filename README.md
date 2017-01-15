@@ -1,2 +1,2 @@
-# Python3-Basics
+# Python-Basics
 Random python 3 programs (some may need third-party libraries to compile)
